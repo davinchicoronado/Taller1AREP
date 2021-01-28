@@ -15,7 +15,7 @@ datos y retornarlos, provee distintas funcionalidades propias de esta.
   ![](img/linkedlist.png)
 
 Para saber mas acerca de estas clases, podremos ver documentacion mas detallada  en el  siguiente directorio llamado documentation y
-tambien encontraremos un pdf describiendo el diseño del mismo.
+también encontraremos un pdf describiendo el diseño del mismo.
 
   ![](img/documentation.png)
 
